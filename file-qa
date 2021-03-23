@@ -1,0 +1,6 @@
+Note: git push --all won't push your tags, only your branches.
+
+git push --all
+git push --tags
+would really push everything. See also "Set up git to pull and push all branches".
+
